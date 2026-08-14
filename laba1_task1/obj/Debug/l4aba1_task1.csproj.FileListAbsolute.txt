@@ -1,0 +1,7 @@
+C:\3 semestr\C#\OOP\l4aba1_task1\bin\Debug\l4aba1_task1.exe.config
+C:\3 semestr\C#\OOP\l4aba1_task1\bin\Debug\l4aba1_task1.exe
+C:\3 semestr\C#\OOP\l4aba1_task1\bin\Debug\l4aba1_task1.pdb
+C:\3 semestr\C#\OOP\l4aba1_task1\obj\Debug\l4aba1_task1.csproj.AssemblyReference.cache
+C:\3 semestr\C#\OOP\l4aba1_task1\obj\Debug\l4aba1_task1.csproj.CoreCompileInputs.cache
+C:\3 semestr\C#\OOP\l4aba1_task1\obj\Debug\l4aba1_task1.exe
+C:\3 semestr\C#\OOP\l4aba1_task1\obj\Debug\l4aba1_task1.pdb

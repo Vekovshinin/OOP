@@ -1,0 +1,7 @@
+C:\3 semestr\C#\OOP\Laba3\bin\Debug\Laba3.exe.config
+C:\3 semestr\C#\OOP\Laba3\bin\Debug\Laba3.exe
+C:\3 semestr\C#\OOP\Laba3\bin\Debug\Laba3.pdb
+C:\3 semestr\C#\OOP\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+C:\3 semestr\C#\OOP\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\3 semestr\C#\OOP\Laba3\obj\Debug\Laba3.exe
+C:\3 semestr\C#\OOP\Laba3\obj\Debug\Laba3.pdb
