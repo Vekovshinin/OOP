@@ -1,0 +1,6 @@
+C:\3 semestr\C#\OOP\Organization\bin\Debug\Organization.dll
+C:\3 semestr\C#\OOP\Organization\bin\Debug\Organization.pdb
+C:\3 semestr\C#\OOP\Organization\obj\Debug\Organization.csproj.AssemblyReference.cache
+C:\3 semestr\C#\OOP\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+C:\3 semestr\C#\OOP\Organization\obj\Debug\Organization.dll
+C:\3 semestr\C#\OOP\Organization\obj\Debug\Organization.pdb
