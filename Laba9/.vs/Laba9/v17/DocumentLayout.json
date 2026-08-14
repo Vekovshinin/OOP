@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\3 semestr\\C#\\OOP\\Laba9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|C:\\3 semestr\\C#\\OOP\\Laba9\\trianglearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|solutionrelative:trianglearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|c:\\3 semestr\\c#\\oop\\laba9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|C:\\3 semestr\\C#\\OOP\\Laba9\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|C:\\3 semestr\\C#\\OOP\\Laba9\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D097E-FD7B-4327-90B8-2EDA703AFBA1}|Laba9.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011DDE66-C3A6-4DAC-8B9E-D670171A2309}|..\\TestLab9\\TestLab9.csproj|c:\\3 semestr\\c#\\oop\\testlab9\\testlab9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TriangleArray.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Laba9\\TriangleArray.cs",
+              "RelativeDocumentMoniker": "TriangleArray.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Laba9\\TriangleArray.cs",
+              "RelativeToolTip": "TriangleArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:26:06.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Laba9\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Laba9\\UserInterface.cs",
+              "RelativeToolTip": "UserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:28:23.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Laba9\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Laba9\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0cAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:24:56.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestLab9.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\TestLab9\\TestLab9.cs",
+              "RelativeDocumentMoniker": "..\\TestLab9\\TestLab9.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\TestLab9\\TestLab9.cs",
+              "RelativeToolTip": "..\\TestLab9\\TestLab9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:06:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Laba9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Laba9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:23:40.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
