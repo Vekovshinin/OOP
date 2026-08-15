@@ -1,0 +1,7 @@
+C:\3 semestr\C#\OOP\Laba1_task3\obj\Debug\Laba1_task3.csproj.AssemblyReference.cache
+C:\3 semestr\C#\OOP\Laba1_task3\obj\Debug\Laba1_task3.csproj.CoreCompileInputs.cache
+C:\3 semestr\C#\OOP\Laba1_task3\bin\Debug\Laba1_task3.exe.config
+C:\3 semestr\C#\OOP\Laba1_task3\bin\Debug\Laba1_task3.exe
+C:\3 semestr\C#\OOP\Laba1_task3\bin\Debug\Laba1_task3.pdb
+C:\3 semestr\C#\OOP\Laba1_task3\obj\Debug\Laba1_task3.exe
+C:\3 semestr\C#\OOP\Laba1_task3\obj\Debug\Laba1_task3.pdb

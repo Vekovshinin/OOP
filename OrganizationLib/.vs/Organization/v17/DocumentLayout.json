@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\3 semestr\\C#\\OOP\\OrganizationLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED2A993-681D-4C84-BB3F-BBCCF837B01B}|Program.csproj|c:\\3 semestr\\c#\\oop\\organizationlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED2A993-681D-4C84-BB3F-BBCCF837B01B}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\insurancecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\shipbuilding\u0441ompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\sortbyemployeecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\sortbytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0951B5-6273-4A53-AAEC-8488C6DDFF4A}|..\\UnitTestLaba10\\UnitTestLaba10.csproj|c:\\3 semestr\\c#\\oop\\unittestlaba10\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED2A993-681D-4C84-BB3F-BBCCF837B01B}|Program.csproj|C:\\3 semestr\\C#\\OOP\\OrganizationLib\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED2A993-681D-4C84-BB3F-BBCCF837B01B}|Program.csproj|solutionrelative:function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|C:\\3 semestr\\C#\\OOP\\Organization\\IInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\binarysearchbyemployeecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8EC38C-70E9-4826-98C3-049651EFD407}|..\\Organization\\Organization.csproj|c:\\3 semestr\\c#\\oop\\organization\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\Organization.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\Organization.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\Organization.cs",
+              "RelativeToolTip": "..\\Organization\\Organization.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:12:18Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\OrganizationLib\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\OrganizationLib\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAwAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:12:57.606Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\Factory.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\Factory.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\Factory.cs",
+              "RelativeToolTip": "..\\Organization\\Factory.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:42:15.369Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\UnitTestLaba10\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestLaba10\\UnitTest1.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\UnitTestLaba10\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestLaba10\\UnitTest1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:21:27.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortByType.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\SortByType.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\SortByType.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\SortByType.cs",
+              "RelativeToolTip": "..\\Organization\\SortByType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:13:15.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SortByEmployeeCount.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\SortByEmployeeCount.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\SortByEmployeeCount.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\SortByEmployeeCount.cs",
+              "RelativeToolTip": "..\\Organization\\SortByEmployeeCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:54:23.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shipbuilding\u0421ompany.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\Shipbuilding\u0421ompany.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\Shipbuilding\u0421ompany.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\Shipbuilding\u0421ompany.cs",
+              "RelativeToolTip": "..\\Organization\\Shipbuilding\u0421ompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:43:36.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsuranceCompany.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\InsuranceCompany.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\InsuranceCompany.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\InsuranceCompany.cs",
+              "RelativeToolTip": "..\\Organization\\InsuranceCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:39:15.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\Library.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\Library.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\Library.cs",
+              "RelativeToolTip": "..\\Organization\\Library.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:23:34.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\OrganizationLib\\Function.cs",
+              "RelativeDocumentMoniker": "Function.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\OrganizationLib\\Function.cs",
+              "RelativeToolTip": "Function.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:19:33.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInit.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\IInit.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\IInit.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\IInit.cs",
+              "RelativeToolTip": "..\\Organization\\IInit.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:15:23.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BinarySearchByEmployeeCount.cs",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\BinarySearchByEmployeeCount.cs",
+              "RelativeDocumentMoniker": "..\\Organization\\BinarySearchByEmployeeCount.cs",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\BinarySearchByEmployeeCount.cs",
+              "RelativeToolTip": "..\\Organization\\BinarySearchByEmployeeCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:54:59.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\3 semestr\\C#\\OOP\\Organization\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "..\\Organization\\ClassDiagram1.cd",
+              "ToolTip": "C:\\3 semestr\\C#\\OOP\\Organization\\ClassDiagram1.cd",
+              "RelativeToolTip": "..\\Organization\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-11-26T06:36:21.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

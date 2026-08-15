@@ -1,0 +1,31 @@
+Triangle
+
+1. **Constructor_IncrementsCount**: Проверяет, что при создании нового объекта `Triangle` счетчик увеличивается на 1.
+2. **A_Property_Get_Set**: Проверяет, что свойство `A` корректно устанавливает и возвращает значение.
+3. **B_Property_Get_Set**: Проверяет аналогично для свойства `B`.
+4. **C_Property_Get_Set**: Проверяет аналогично для свойства `C`.
+5. **Properties_SetAndGetCorrectly**: Проверяет, что все свойства могут быть установлены и возвращены корректно.
+1. **Constructor_CopyConstructor_IncrementsCount**: Проверяет, что при создании копии треугольника счетчик увеличивается и свойства копируются правильно.
+2. **Exist_ReturnsTrue_WhenTriangleExists**: Проверяет метод `Exist`, когда треугольник действительно существует.
+3. **Exist_ReturnsFalse_WhenTriangleDoesNotExist**: Проверяет метод `Exist`, когда треугольник не может существовать.
+4. **CalculateSquare_ReturnsArea_WhenTriangleExists**: Проверяет метод `CalculateSquare`, когда треугольник существует.
+5. **CalculateSquare_ReturnsNegativeOne_WhenTriangleDoesNotExist**: Проверяет метод `CalculateSquare`, когда треугольник не существует.
+6. **IncrementOperator_IncreasesSides**: Проверяет перегрузку оператора `++`, чтобы убедиться, что стороны увеличиваются.
+7. **DecrementOperator_DecreasesSides**: Проверяет перегрузку оператора `--`, чтобы убедиться, что стороны уменьшаются.
+8. **ExplicitOperator_CastsToDouble_ReturnsArea**: Проверяет явное преобразование в `double` и возвращение площади.
+9. **ImplicitOperator_CastsToBool_ReturnsExistence**: Проверяет неявное преобразование в `bool` для проверки существования.
+10. **LessThanOrEqualOperator_ComparingAreas**: Проверяет оператор `<=` для сравнения площадей двух треугольников.
+11. **GreaterThanOrEqualOperator_ComparingAreas**: Проверяет оператор `>=` для сравнения площадей двух треугольников.
+
+
+TriangleArray
+
+1. ConstructorEmptyArrayCreatesEmptyTriangleArray: Проверяет создание пустого массива треугольников.
+2. ConstructorSizeArrayCreatesTriangleArrayWithRandomTriangles: Проверяет создание массива треугольников заданного размера с случайными значениями.
+3. ConstructorSizeAndUserInterfaceCreatesTriangleArrayFromUserInput: Проверяет создание массива треугольников на основе ввода пользователя с использованием мок-объекта.
+4. IndexerGetReturnsCorrectTriangle: Проверяет корректность возвращаемого треугольника по индексу.
+5. IndexerSetUpdatesTriangle: Проверяет обновление треугольника по индексу.
+6. IndexerGetOutOfRange_ThrowsException: Проверяет выброс исключения при выходе индекса за пределы массива.
+7. FindIndexWithMinSquare_ReturnsCorrectIndex: Проверяет поиск индекса треугольника с минимальной площадью.
+8. FindIndexWithMinSquareEmptyArrayThrowsException: Проверяет выброс исключения при попытке найти индекс в пустом массиве.
+9. PrintSquare_PrintsCorrectAreas: Проверяет вывод площадей треугольников (можно дополнительно протестировать с помощью перехвата вывода).

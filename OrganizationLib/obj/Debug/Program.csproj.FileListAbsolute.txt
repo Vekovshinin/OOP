@@ -1,0 +1,10 @@
+C:\3 semestr\C#\OOP\OrganizationLib\bin\Debug\OrganizationLib.exe.config
+C:\3 semestr\C#\OOP\OrganizationLib\bin\Debug\OrganizationLib.exe
+C:\3 semestr\C#\OOP\OrganizationLib\bin\Debug\OrganizationLib.pdb
+C:\3 semestr\C#\OOP\OrganizationLib\bin\Debug\Organization.dll
+C:\3 semestr\C#\OOP\OrganizationLib\bin\Debug\Organization.pdb
+C:\3 semestr\C#\OOP\OrganizationLib\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\3 semestr\C#\OOP\OrganizationLib\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\3 semestr\C#\OOP\OrganizationLib\obj\Debug\Program.csproj.Up2Date
+C:\3 semestr\C#\OOP\OrganizationLib\obj\Debug\OrganizationLib.exe
+C:\3 semestr\C#\OOP\OrganizationLib\obj\Debug\OrganizationLib.pdb

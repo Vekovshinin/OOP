@@ -1,0 +1,10 @@
+C:\3 semestr\C#\OOP\Laba11\bin\Debug\Laba11.exe.config
+C:\3 semestr\C#\OOP\Laba11\bin\Debug\Laba11.exe
+C:\3 semestr\C#\OOP\Laba11\bin\Debug\Laba11.pdb
+C:\3 semestr\C#\OOP\Laba11\bin\Debug\Organization.dll
+C:\3 semestr\C#\OOP\Laba11\bin\Debug\Organization.pdb
+C:\3 semestr\C#\OOP\Laba11\obj\Debug\Laba11.csproj.AssemblyReference.cache
+C:\3 semestr\C#\OOP\Laba11\obj\Debug\Laba11.csproj.CoreCompileInputs.cache
+C:\3 semestr\C#\OOP\Laba11\obj\Debug\Laba11.csproj.Up2Date
+C:\3 semestr\C#\OOP\Laba11\obj\Debug\Laba11.exe
+C:\3 semestr\C#\OOP\Laba11\obj\Debug\Laba11.pdb
