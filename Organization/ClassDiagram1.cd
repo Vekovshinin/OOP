@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OrganizationLib.Organization" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAQAgAAAAAAAAAAFAIAQAQRCCBAIABg=</HashCode>
+      <FileName>Organization.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OrganizationLib.InsuranceСompany" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAAAAAAAAEgAAAAAEAAAAFAIAAAAQCAAAAAAA=</HashCode>
+      <FileName>InsuranceCompany.cs</FileName>
+      <NewMemberFileName>Organization.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizationLib.Factory" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAgAAEAAAABAAEAIAAAAQCAAAAAAA=</HashCode>
+      <FileName>Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizationLib.ShipbuildingСompany" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAgAAAAAAgAAAEIIAAAAACAAAAAAA=</HashCode>
+      <FileName>ShipbuildingСompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrganizationLib.Library" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgAAAAIAAAAgAAAAAAAAAAEAIAAAAQCAAAAAAA=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
