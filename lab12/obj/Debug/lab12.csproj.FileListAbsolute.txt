@@ -1,0 +1,10 @@
+C:\4 semestr\OOP_labs\lab12\bin\Debug\lab12.exe.config
+C:\4 semestr\OOP_labs\lab12\bin\Debug\lab12.exe
+C:\4 semestr\OOP_labs\lab12\bin\Debug\lab12.pdb
+C:\4 semestr\OOP_labs\lab12\bin\Debug\Organization.dll
+C:\4 semestr\OOP_labs\lab12\bin\Debug\Organization.pdb
+C:\4 semestr\OOP_labs\lab12\obj\Debug\lab12.csproj.AssemblyReference.cache
+C:\4 semestr\OOP_labs\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\4 semestr\OOP_labs\lab12\obj\Debug\lab12.csproj.Up2Date
+C:\4 semestr\OOP_labs\lab12\obj\Debug\lab12.exe
+C:\4 semestr\OOP_labs\lab12\obj\Debug\lab12.pdb
